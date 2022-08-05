@@ -1,0 +1,10 @@
+build
+.idea/
+.DS_Store
+*.iml
+.project
+.settings
+out/
+scanFiles/
+*.log
+.classpath
